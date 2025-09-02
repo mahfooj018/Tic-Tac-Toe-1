@@ -1,2 +1,2 @@
-# Delta-Demo1
-This is basics of GitHub..
+Tic Tac Toe # Delta-Demo1
+This is Tic Yac Toe game...
